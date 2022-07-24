@@ -1,1 +1,11 @@
+# Default reviewers/codeowners for all code changes
 * @cihatsolak
+
+# Reviewer by email for html files
+*.html cihatsolak@hotmail.com
+
+# Reviewer by organization team
+*.txt @gitunes/LTunesCodeReviewers
+
+<!-- # Reviewer by specific folders
+/folder1/folder2 @user1 @user2 @test.gmail.com -->
